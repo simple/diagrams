@@ -1,7 +1,10 @@
 # diagrams
 
 Playground for mermaid diagrams.
-ref. https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+
+### References
+* https://learning.oreilly.com/library/view/creating-software-with/9798888650219
+* https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 
 ```mermaid
 sequenceDiagram
